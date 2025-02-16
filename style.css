@@ -39,7 +39,7 @@ main{
     justify-content: center;
     flex-direction: column;
     background-color: var(--gray-800);
-    padding: 32px;
+    padding: 40px 32px;
     border-radius: 14px;
     font-family: "Inter";
 }
